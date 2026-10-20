@@ -4,6 +4,11 @@ In this project, we are building a fully custom, plug-and-play USB steering whee
 
 The code processes the Z-axis movements of the MPU6050 to generate a precise steering angle (X-axis), alongside supporting a full D-Pad and numerous buttons.
 
+📺 Watch the Full Project Video on YouTube:  https://www.youtube.com/watch?v=9KQNjhdO-iA&t
+
+## 🛠️ Hardware & PCB
+The custom PCB for this project was designed using online tools. You can view or customize the project's [pcb layout](https://design.jlcpcb.com?from=makerio_layout) before ordering or fabrication.
+
 ## **🛠️ Hardware and Pin Connections**
 
 All buttons used in the code are configured with INPUT_PULLUP. This means the other leg of each button must be connected directly to **GND (Ground)**, eliminating the need for external resistors.
