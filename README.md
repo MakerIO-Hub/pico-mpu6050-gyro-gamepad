@@ -6,8 +6,8 @@ The code processes the Z-axis movements of the MPU6050 to generate a precise ste
 
 📺 Watch the Full Project Video on YouTube:  https://www.youtube.com/watch?v=9KQNjhdO-iA&t
 
-## 🛠️ Hardware & PCB
-The custom PCB for this project was designed using online tools. You can view or customize the project's [pcb layout](https://design.jlcpcb.com?from=makerio_layout) before ordering or fabrication.
+---
+For electronic project design and [pcb layout](https://design.jlcpcb.com?from=makerio_layout) tools, you can check JLCPCB.
 
 ## **🛠️ Hardware and Pin Connections**
 
